@@ -1,0 +1,6 @@
+com\lds\exito\vanaheim\vanir\securityenhancedweb\endpoint\IWebUserAdmin.class
+com\lds\exito\vanaheim\vanir\securityenhancedweb\rest\WebSecurityEnhanced.class
+com\lds\exito\vanaheim\vanir\securityenhancedweb\endpoint\impl\WebUserAdmin.class
+com\lds\exito\vanaheim\vanir\securityenhancedweb\service\impl\WebUserAdminBusiness.class
+com\lds\exito\vanaheim\vanir\securityenhancedweb\service\IWebUserAdminBusiness.class
+com\lds\exito\vanaheim\vanir\securityenhancedweb\service\extension\ErrorCodesSecurityEnhanced.class
